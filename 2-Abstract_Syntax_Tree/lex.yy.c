@@ -1113,7 +1113,7 @@ ECHO;
 
 				if ( yywrap() )
 					{
-					/* Note: because we've taken care in
+					/* Note:because we've taken care in
 					 * yy_get_next_buffer() to have set up
 					 * yytext, we can now set up
 					 * yy_c_buf_p so that if some total
